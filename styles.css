@@ -1,0 +1,10 @@
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+#cart-modal {
+  transition: opacity 0.3s ease;
+}
+.container {
+  position: relative;
+  z-index: 1;
+}
